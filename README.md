@@ -1,5 +1,9 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
 
+SWETHA A
+212223220114
+B.tech(IT)
+
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
